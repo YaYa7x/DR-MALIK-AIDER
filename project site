@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dr Malik Aider - Urologue</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+
+        header {
+            background-color: #f8f9fa;
+            padding: 20px;
+            text-align: center;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        section {
+            margin: 20px 0;
+        }
+
+        .card {
+            background-color: #fff;
+            border-radius: 5px;
+            padding: 20px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .card h2 {
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        .card p {
+            margin-bottom: 20px;
+        }
+
+        .card img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        .btn {
+            background-color: #333;
+            color: #fff;
+            text-decoration: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+
+        .btn:hover {
+            background-color: #555;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Dr Malik Aider - Urologue</h1>
+    </header>
+
+    <section>
+        <div class="card">
+            <img src="doctor-photo.jpg" alt="Dr Malik Aider">
+            <h2>Présentation</h2>
+            <p>
+                Le Dr Malik Aider est un urologue réputé basé à Beb el Oued à Alger. 
+                Avec plus de 20 ans d'expérience, il a été classé parmi les meilleurs urologues internationaux. 
+                Son expertise dans le domaine de la urologie est inégalée.
+            </p>
+            <a href="https://www.congres.com/Dr-Malik-Aider" class="btn">Accéder aux congrès</a>
+        </div>
+    </section>
+
+    <section>
+        <div class="card">
+            <h2>Qualités</h2>
+            <ul>
+                <li>Expérience de plus de 20 ans</li>
+                <li>Classé parmi les meilleurs urologues internationaux</li>
+                <li>Expertise reconnue dans le domaine de la urologie</li>
+                <li>Très bien évalué par ses patients</li>
+            </ul>
+        </div>
+    </section>
+</body>
+</html>
